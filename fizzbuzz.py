@@ -8,7 +8,6 @@ def fizzbuzz_convert(number):
         print ('Buzz')
     else:
         print(number)
-#to do
 
 assert fizzbuzz_convert(3) == 'Fizz'
 assert fizzbuzz_convert(5) == 'Buzz'
